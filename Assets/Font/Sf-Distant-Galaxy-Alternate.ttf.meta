@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: f6aae2ee3d1436f45978b3249b2ebad0
+timeCreated: 1494938451
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: SF Distant Galaxy Alternate
+  fontNames:
+  - SF Distant Galaxy Alternate
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
